@@ -8,7 +8,7 @@ html{
 
 body{
     background-color: black;
-    color: whitesmoke;
+    color: yellowgreen;
 }
 
 .container{
@@ -17,15 +17,15 @@ body{
     max-width: 1980px;
 }
 
-.rookiebox, .championbox{
+.rookiebox, .championbox, .franchisebox{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     background-color: black;
     height: 400px;
-    width: 550px;
+    width: 600px;
     border: 10px solid greenyellow ;
-    margin: 10px, 5px;
+    margin: 0px, 5px;
     float: left;
 }
 
@@ -38,6 +38,12 @@ body{
     
 }
 
+.franchisebox{
+    background-image: url(./img/franchise.jpg);
+    
+}
+
+
 body h1, h3 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -48,12 +54,19 @@ body h1{
     margin-bottom: 5px;
 }
 
-.championbox, .rookiebox h4{
+.championbox, .rookiebox, .franchisebox h4{
     font-size: 25pt;
-    color: white;
+    color: yellowgreen;
     text-align: center;
     margin-top: 0px;
-    vertical-align: top;
     display: block;
+}
+
+.rookieboxfont, .championboxfont, .franchiseboxfont{
+    height: 100px;
+    width: 600px;
+    color: yellowgreen;
+    text-align: center;
+    float: left;
 }
 
