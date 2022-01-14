@@ -1,0 +1,23 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.container{
+    width: 80%
+    margin: 0 auto;
+    max-width: 1980px;
+}
+
+body h1, h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
