@@ -17,7 +17,8 @@ body{
     max-width: 1980px;
 }
 
-.rookiebox, .championbox, .franchisebox{
+.rookbox2021, .rookbox2020, .rookbox2019, 
+.rookbox2018, .rookbox2017, .rookbox2016, .rookbox2015{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -29,11 +30,37 @@ body{
     float: left;
 }
 
-.championbox{
-    background-image: url(./img/pupschampp.png);
+.rookbox2021{
+    background-image: url("../img/chaserookie.jpg");
 }
 
-.championbox:hover, .rookiebox:hover, .franchisebox:hover{
+.rookbox2020{
+    background-image: url("../img/jtrookie.jpg");
+}
+
+.rookbox2019{
+    background-image: url("../img/jacobsrookie.jpeg");
+}
+
+.rookbox2018{
+    background-image: url("../img/barkleyrookie.jpg");
+}
+
+.rookbox2017{
+    background-image: url("../img/fournette.jpg");
+}
+
+.rookbox2016{
+    background-image: url("../img/elliott.jpg");
+}
+
+.rookbox2015{
+    background-image: url("../img/gurleyrookie.jpg");
+}
+
+.rookbox2021:hover, .rookbox2020:hover, .rookbox2019:hover,
+.rookbox2018:hover, .rookbox2017:hover, .rookbox2016:hover, 
+.rookbox2015:hover{
     transform: scale(1.3)
 }
 
@@ -70,4 +97,3 @@ body h1{
     text-align: center;
     float: left;
 }
-
