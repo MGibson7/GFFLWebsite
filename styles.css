@@ -17,7 +17,42 @@ body{
     max-width: 1980px;
 }
 
+.rookiebox, .championbox{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    height: 500px;
+    width: 550px;
+    border: 10px solid greenyellow ;
+    margin: 10px, 5px;
+    float: left;
+}
+
+.championbox{
+    background-image: url(./img/pupschampp.png);
+}
+
+.rookiebox{
+    background-image: url(./img/chaserookie.jpg);
+}
+
 body h1, h3 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+body h1{
+    font-size: 50pt;
+    margin-bottom: 5px;
+}
+
+.championbox, .rookiebox h4{
+    font-size: 25pt;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    vertical-align: middle;
+    display: block;
+}
+
