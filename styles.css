@@ -22,7 +22,7 @@ body{
     background-position: center;
     background-size: contain;
     background-color: black;
-    height: 500px;
+    height: 400px;
     width: 550px;
     border: 10px solid greenyellow ;
     margin: 10px, 5px;
@@ -35,6 +35,7 @@ body{
 
 .rookiebox{
     background-image: url(./img/chaserookie.jpg);
+    
 }
 
 body h1, h3 {
@@ -52,7 +53,7 @@ body h1{
     color: white;
     text-align: center;
     margin-top: 0px;
-    vertical-align: middle;
+    vertical-align: top;
     display: block;
 }
 
