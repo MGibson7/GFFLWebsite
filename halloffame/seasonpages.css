@@ -285,6 +285,72 @@ a{
 
 }
 
+.gffl_champ_2011{
+    background-image: url(../img/GFFLBOWLVIICHAMPS.PNG);
+}
+
+.gffl_bowl_2011{
+    background-image: url(../img/GFFLBOWLVII.PNG);
+    
+}
+
+.top_qb_2011{
+    background-image: url(../img/rodgers.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2011{
+    background-image: url(../img/rrice.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2011{
+    background-image: url(../img/megatron.jpeg);
+    background-size: cover;
+
+}
+
+.top_te_2011{
+    background-image: url(../img/gronk.jpg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2012{
+    background-image: url(../img/GFFLBOWLVIIIChamps.PNG);
+}
+
+.gffl_bowl_2012{
+    background-image: url(../img/GFFLBOWLVIII.jpg);
+    
+}
+
+.top_qb_2012{
+    background-image: url(../img/brees.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2012{
+    background-image: url(../img/Peterson.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2012{
+    background-image: url(../img/megatron.jpeg);
+    background-size: cover;
+
+}
+
+.top_te_2012{
+    background-image: url(../img/graham.jpg);
+    background-size: cover;
+
+}
+
 
 
 /*End of year by year images */
