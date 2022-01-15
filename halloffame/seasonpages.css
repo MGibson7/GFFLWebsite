@@ -1,0 +1,138 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+body{
+    background-color: black;
+    color: yellowgreen;
+}
+
+.container{
+    width: 90%
+    margin: 0 auto;
+    max-width: 1400px;
+}
+
+.gffl_championbox, .gffl_bowlbox{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    height: 400px;
+    width: 600px;
+    border: 10px solid greenyellow ;
+    margin: 0px, 5px;
+    float: left;
+}
+
+.top_qb, .top_hb, .top_wr, .top_te{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    height: 400px;
+    width: 300px;
+    border: 10px solid greenyellow ;
+    margin: 0px, 5px;
+    float: left;
+}
+
+a{
+    font-size: 20pt;
+    color: yellowgreen;
+}
+
+
+.gffl_championbox:hover, .gffl_bowlbox:hover, .top_qb:hover, 
+.top_hb:hover, .top_wr:hover, .top_te:hover{
+    transform: scale(1.3)
+}
+
+/*Fill in the info for each year here all other styling is same */
+
+.gffl_champ_2021{
+    background-image: url(../img/GFFLBOWL17Champ.png);
+}
+
+.gffl_bowl_2021{
+    background-image: url(../img/GFFLBOWL17.png);
+    
+}
+
+.top_qb_2021{
+    background-image: url(../img/jallen.jpeg);
+    background-size: cover;
+    
+}
+
+.top_hb_2021{
+    background-image: url(../img/jtaylor.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2021{
+    background-image: url(../img/kupp.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2021{
+    background-image: url(../img/mandrews.jpeg);
+    background-size: cover;
+
+}
+
+
+
+/*End of year by year images */
+
+body h1, h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+body h1{
+    font-size: 50pt;
+    margin-bottom: 5px;
+}
+
+
+.gffl_championboxfont, .gffl_bowlboxfont{
+    background-color: black;
+    height: 55px;
+    width: 600px;
+    color: yellowgreen;
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+}
+
+.top_qbfont, 
+.top_hbfont, .top_wrfont, .top_tefont{
+    background-color: black;
+    height: 55px;
+    width: 300px;
+    color: yellowgreen;
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+
+}
+
+.TheDraftbox{
+    margin-top: 10px;
+    height: auto;
+    width: 1200px;
+    background-color: black;
+    float: center;
+    text-align: left;
+    font-size: 20pt;
+}

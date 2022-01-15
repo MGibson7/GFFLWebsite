@@ -1,0 +1,165 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+body{
+    background-color: black;
+    color: yellowgreen;
+}
+
+.container{
+    width: 90%
+    margin: 0 auto;
+    max-width: 1400px;
+}
+
+.rookbox2021, .rookbox2020, .rookbox2019, 
+.rookbox2018, .rookbox2017, .rookbox2016, .rookbox2015, .rookbox2014, 
+.rookbox2013, .rookbox2012, .rookbox2011, .rookbox2010, .rookbox2009, 
+.rookbox2008, .rookbox2007, .rookbox2006, .rookbox2005{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    height: 400px;
+    width: 400px;
+    border: 10px solid greenyellow ;
+    margin: 0px, 5px;
+    float: left;
+    text-align: left;
+    font-size: 30pt;
+    font-weight: bold;
+    color: yellowgreen;
+}
+
+.rookbox2021{
+    background-image: url("../img/kupp.jpg");
+    background-size: cover;
+}
+
+.rookbox2020{
+    background-image: url("../img/henry.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2019{
+    background-image: url("../img/cmc.jpg");
+    background-size: cover;
+}
+
+.rookbox2018{
+    background-image: url("../img/mahomes.jpg");
+    background-size: cover;
+}
+
+.rookbox2017{
+    background-image: url("../img/gurley.jpeg");
+    background-size: cover;
+}
+
+.rookbox2016{
+    background-image: url("../img/djohnson.jpg");
+    background-size: cover;
+}
+
+.rookbox2015{
+    background-image: url("../img/newton.jpg");
+    background-size: cover;
+}
+
+.rookbox2014{
+    background-image: url("../img/abrown.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2013{
+    background-image: url("../img/manning.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2012{
+    background-image: url("../img/Peterson.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2011{
+    background-image: url("../img/megatron.jpeg");
+    background-size: cover;
+
+}
+
+.rookbox2010{
+    background-image: url("../img/vick.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2009{
+    background-image: url("../img/cj2k.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2008{
+    background-image: url("../img/dwilliams.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2007{
+    background-image: url("../img/rmoss.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2006{
+    background-image: url("../img/tomlinson.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2005{
+    background-image: url("../img/salexander.jpg");
+    background-size: cover;
+
+}
+
+.rookbox2021:hover, .rookbox2020:hover, .rookbox2019:hover,
+.rookbox2018:hover, .rookbox2017:hover, .rookbox2016:hover, 
+.rookbox2015:hover, .rookbox2014:hover, .rookbox2013:hover, 
+.rookbox2012:hover, .rookbox2011:hover, .rookbox2010:hover, 
+.rookbox2009:hover, .rookbox2008:hover, .rookbox2007:hover,
+.rookbox2006:hover, .rookbox2005:hover{
+    transform: scale(1.3)
+}
+
+.rookiebox{
+    background-image: url(./img/chaserookie.jpg);
+    
+}
+
+.franchisebox{
+    background-image: url(./img/franchise.jpg);
+    
+}
+
+
+body h1, h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+body h1{
+    font-size: 50pt;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
