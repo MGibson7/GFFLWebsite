@@ -14,7 +14,6 @@ body{
 .container{
     width: 80%
     margin: 0 auto;
-    max-width: 1980px;
 }
 
 .rookiebox, .championbox, .franchisebox{
