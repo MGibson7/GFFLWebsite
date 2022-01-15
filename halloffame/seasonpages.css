@@ -153,6 +153,138 @@ a{
 
 }
 
+.gffl_champ_2007{
+    background-image: url(../img/GFFLBOWLIIICHAMPS.PNG);
+}
+
+.gffl_bowl_2007{
+    background-image: url(../img/GFFLBOWL3.PNG);
+    
+}
+
+.top_qb_2007{
+    background-image: url(../img/brady.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2007{
+    background-image: url(../img/westbrook.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2007{
+    background-image: url(../img/rmoss.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2007{
+    background-image: url(../img/jwitten.jpg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2008{
+    background-image: url(../img/GFFLBOWLIVChamps.PNG);
+}
+
+.gffl_bowl_2008{
+    background-image: url(../img/GFFLBOWLIV.PNG);
+    
+}
+
+.top_qb_2008{
+    background-image: url(../img/brees.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2008{
+    background-image: url(../img/dwilliams.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2008{
+    background-image: url(../img/ajohnson.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2008{
+    background-image: url(../img/gonzalez.jpg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2009{
+    background-image: url(../img/GFFLBOWLVChamps.PNG);
+}
+
+.gffl_bowl_2009{
+    background-image: url(../img/GFFLBOWL5.PNG);
+    
+}
+
+.top_qb_2009{
+    background-image: url(../img/rodgers.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2009{
+    background-image: url(../img/cj2k.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2009{
+    background-image: url(../img/ajohnson.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2009{
+    background-image: url(../img/clark.jpg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2010{
+    background-image: url(../img/GFFLBOWLVI.PNG);
+}
+
+.gffl_bowl_2010{
+    background-image: url(../img/GFFLBOWL6.PNG);
+    
+}
+
+.top_qb_2010{
+    background-image: url(../img/vick.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2010{
+    background-image: url(../img/foster.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2010{
+    background-image: url(../img/rwhite.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2010{
+    background-image: url(../img/jwitten.jpg);
+    background-size: cover;
+
+}
+
 
 
 /*End of year by year images */
