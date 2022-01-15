@@ -87,6 +87,72 @@ a{
 
 }
 
+.gffl_champ_2005{
+    background-image: url(../img/GFFLBOWLICHAMPS.PNG);
+}
+
+.gffl_bowl_2005{
+    background-image: url(../img/GFFLBOWL1.PNG);
+    
+}
+
+.top_qb_2005{
+    background-image: url(../img/palmer.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2005{
+    background-image: url(../img/salexander.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2005{
+    background-image: url(../img/ssmith.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2005{
+    background-image: url(../img/gates.jpg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2006{
+    background-image: url(../img/GFFLBOWLIICHAMPS.PNG);
+}
+
+.gffl_bowl_2006{
+    background-image: url(../img/GFFLBOWL2.PNG);
+    
+}
+
+.top_qb_2006{
+    background-image: url(../img/manningind.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2006{
+    background-image: url(../img/tomlinson.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2006{
+    background-image: url(../img/harrison.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2006{
+    background-image: url(../img/gates.jpg);
+    background-size: cover;
+
+}
+
 
 
 /*End of year by year images */
@@ -127,12 +193,22 @@ body h1{
 
 }
 
-.TheDraftbox{
+.SeasonOverview,{
     margin-top: 10px;
     height: auto;
-    width: 1200px;
+    width: 600px;
     background-color: black;
-    float: center;
+    float: left;
+    text-align: left;
+    font-size: 20pt;
+}
+
+.SeasonOverviewPar{
+    margin-top: 10px;
+    height: auto;
+    width: 600px;
+    background-color: black;
+    float: right;
     text-align: left;
     font-size: 20pt;
 }
