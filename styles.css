@@ -12,8 +12,9 @@ body{
 }
 
 .container{
-    width: 80%
+    width: 90%
     margin: 0 auto;
+    max-width: 1400px;
 }
 
 .rookiebox, .championbox, .franchisebox{
@@ -22,7 +23,7 @@ body{
     background-size: contain;
     background-color: black;
     height: 400px;
-    width: 500px;
+    width: 400px;
     border: 10px solid greenyellow ;
     margin: 0px, 5px;
     float: left;
@@ -62,7 +63,7 @@ body h1{
 .rookieboxfont, .championboxfont, .franchiseboxfont{
     background-color: black;
     height: 55px;
-    width: 500px;
+    width: 400px;
     color: yellowgreen;
     font-size: 20pt;
     font-weight: bold;

@@ -28,6 +28,10 @@ body{
     border: 10px solid greenyellow ;
     margin: 0px, 5px;
     float: left;
+    text-align: left;
+    font-size: 30pt;
+    font-weight: bold;
+    color: yellowgreen;
 }
 
 .rookbox2021{
