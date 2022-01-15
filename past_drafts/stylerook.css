@@ -12,19 +12,19 @@ body{
 }
 
 .container{
-    width: 80%
+    width: 90%
     margin: 0 auto;
-    max-width: 1980px;
+    max-width: 1400px;
 }
 
 .rookbox2021, .rookbox2020, .rookbox2019, 
-.rookbox2018, .rookbox2017, .rookbox2016, .rookbox2015{
+.rookbox2018, .rookbox2017, .rookbox2016, .rookbox2015, .rookbox2014{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     background-color: black;
     height: 400px;
-    width: 500px;
+    width: 400px;
     border: 10px solid greenyellow ;
     margin: 0px, 5px;
     float: left;
@@ -62,9 +62,14 @@ body{
     background-image: url("../img/gurleyrookie.jpg");
 }
 
+.rookbox2014{
+    background-image: url("../img/watkinsrookie.jpg");
+
+}
+
 .rookbox2021:hover, .rookbox2020:hover, .rookbox2019:hover,
 .rookbox2018:hover, .rookbox2017:hover, .rookbox2016:hover, 
-.rookbox2015:hover{
+.rookbox2015:hover, .rookbox2014:hover{
     transform: scale(1.3)
 }
 
@@ -87,17 +92,8 @@ body h1, h3 {
 
 body h1{
     font-size: 50pt;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 
-.rookieboxfont, .championboxfont, .franchiseboxfont{
-    background-color: black;
-    height: 55px;
-    width: 500px;
-    color: yellowgreen;
-    font-size: 20pt;
-    font-weight: bold;
-    text-align: center;
-    float: left;
-}

@@ -1,0 +1,189 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+body{
+    background-color: black;
+    color: yellowgreen;
+}
+
+.container{
+    width: 90%
+    margin: 0 auto;
+    max-width: 1400px;
+}
+
+.best_playerbox, .best_pickbox, .bust_pickbox{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    height: 400px;
+    width: 400px;
+    border: 10px solid greenyellow ;
+    margin: 0px, 5px;
+    float: left;
+}
+
+a{
+    font-size: 20pt;
+    color: yellowgreen;
+}
+
+
+.best_playerbox:hover, .best_pickbox:hover, .bust_pickbox:hover{
+    transform: scale(1.3)
+}
+
+/*Fill in the info for each year here all other styling is same */
+
+.best_player_2014{
+    background-image: url(../img/adamsrookie.jpg);
+}
+
+.best_pickbox_2014{
+    background-image: url(../img/arobrookie.jpg);
+    
+}
+
+.bust_pickbox_2014{
+    background-image: url(../img/manzielrookie.jpg);
+    
+}
+
+.best_player_2015{
+    background-image: url(../img/gurleyrookie.jpg);
+}
+
+.best_pickbox_2015{
+    background-image: url(../img/lockettrookie.jpg);
+    
+}
+
+.bust_pickbox_2015{
+    background-image: url(../img/whiterookie.jpg);
+    
+}
+
+.best_player_2016{
+    background-image: url(../img/henryrookie.jpg);
+}
+
+.best_pickbox_2016{
+    background-image: url(../img/mthomasrookie.jpg);
+    
+}
+
+.bust_pickbox_2016{
+    background-image: url(../img/doctsonrookie.jpg);
+    
+}
+
+.best_player_2017{
+    background-image: url(../img/cmcrookie.jpg);
+}
+
+.best_pickbox_2017{
+    background-image: url(../img/kamararookie.jpg);
+    
+}
+
+.bust_pickbox_2017{
+    background-image: url(../img/rossrookie.jpg);
+    
+}
+
+.best_player_2018{
+    background-image: url(../img/chubbrookie.jpg);
+}
+
+.best_pickbox_2018{
+    background-image: url(../img/ljax.jpg);
+    
+}
+
+.bust_pickbox_2018{
+    background-image: url(../img/guicerookie.jpg);
+    
+}
+
+.best_player_2019{
+    background-image: url(../img/metcalfrookie.jpg);
+}
+
+.best_pickbox_2019{
+    background-image: url(../img/ajbrookie.jpg);
+    
+}
+
+.bust_pickbox_2019{
+    background-image: url(../img/harryrookie.jpg);
+    
+}
+
+.best_player_2020{
+    background-image: url(../img/jtrookie.jpg);
+}
+
+.best_pickbox_2020{
+    background-image: url(../img/jjeffersonrookie.jpg);
+    
+}
+
+.bust_pickbox_2020{
+    background-image: url(../img/reagorrookie.jpeg);
+    
+}
+
+.best_player_2021{
+    background-image: url(../img/chaserookie.jpg);
+}
+
+.best_pickbox_2021{
+    background-image: url(../img/emitchellrookie.jpg);
+    
+}
+
+.bust_pickbox_2021{
+    background-image: url(../img/sermonrookie.jpg);
+    
+}
+
+/*End of year by year images */
+
+body h1, h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+body h1{
+    font-size: 50pt;
+    margin-bottom: 5px;
+}
+
+
+.best_playerboxfont, .best_valueboxfont, .bust_pickboxfont{
+    background-color: black;
+    height: 55px;
+    width: 400px;
+    color: yellowgreen;
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+}
+
+.TheDraftbox{
+    margin-top: 450px;
+    height: auto;
+    width: 1200px;
+    background-color: black;
+    float: center;
+    text-align: left;
+    font-size: 20pt;
+}
