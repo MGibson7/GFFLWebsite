@@ -351,6 +351,105 @@ a{
 
 }
 
+.gffl_champ_2013{
+    background-image: url(../img/GFFL\ BOWL\ IX\ CHAMPS.PNG);
+}
+
+.gffl_bowl_2013{
+    background-image: url(../img/gfflbowl9.PNG);
+    
+}
+
+.top_qb_2013{
+    background-image: url(../img/manning.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2013{
+    background-image: url(../img/charles.jpeg);
+    background-size: cover;
+    
+}
+
+.top_wr_2013{
+    background-image: url(../img/DT.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2013{
+    background-image: url(../img/graham.jpg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2014{
+    background-image: url(../img/GFFLBOWLXCHAMPION.PNG);
+}
+
+.gffl_bowl_2014{
+    background-image: url(../img/GFFLBOWLX.PNG);
+    
+}
+
+.top_qb_2014{
+    background-image: url(../img/rodgers.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2014{
+    background-image: url(../img/lbell.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2014{
+    background-image: url(../img/abrown.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2014{
+    background-image: url(../img/gronk.jpg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2015{
+    background-image: url(../img/GFFLBOWL11A.JPG);
+}
+
+.gffl_bowl_2015{
+    background-image: url(../img/GFFLBOWL11.PNG);
+    
+}
+
+.top_qb_2015{
+    background-image: url(../img/newton2.jpeg);
+    background-size: cover;
+    
+}
+
+.top_hb_2015{
+    background-image: url(../img/freeman.jpeg);
+    background-size: cover;
+    
+}
+
+.top_wr_2015{
+    background-image: url(../img/abrown.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2015{
+    background-image: url(../img/gronk.jpg);
+    background-size: cover;
+
+}
+
 
 
 /*End of year by year images */
