@@ -307,7 +307,7 @@ a{
 }
 
 .top_wr_2011{
-    background-image: url(../img/megatron.jpeg);
+    background-image: url(../img/megatron.jpg);
     background-size: cover;
 
 }
@@ -340,7 +340,7 @@ a{
 }
 
 .top_wr_2012{
-    background-image: url(../img/megatron.jpeg);
+    background-image: url(../img/megatron.jpg);
     background-size: cover;
 
 }
@@ -446,6 +446,171 @@ a{
 
 .top_te_2015{
     background-image: url(../img/gronk.jpg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2016{
+    background-image: url(../img/GFFLBOwl12Champ.JPG);
+}
+
+.gffl_bowl_2016{
+    background-image: url(../img/GFFLBOWLXII.JPG);
+    
+}
+
+.top_qb_2016{
+    background-image: url(../img/rodgers.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2016{
+    background-image: url(../img/djohnson.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2016{
+    background-image: url(../img/abrown.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2016{
+    background-image: url(../img/kelce.jpeg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2017{
+    background-image: url(../img/GFFLBowl13Champ.JPG);
+}
+
+.gffl_bowl_2017{
+    background-image: url(../img/GFFLBowl13.JPG);
+    
+}
+
+.top_qb_2017{
+    background-image: url(../img/russ.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2017{
+    background-image: url(../img/gurley.jpeg);
+    background-size: cover;
+    
+}
+
+.top_wr_2017{
+    background-image: url(../img/abrown.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2017{
+    background-image: url(../img/kelce.jpeg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2018{
+    background-image: url(../img/GFFLBOWL14CHAMP.PNG);
+}
+
+.gffl_bowl_2018{
+    background-image: url(../img/GFFLBOWL14.PNG);
+    
+}
+
+.top_qb_2018{
+    background-image: url(../img/mahomes.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2018{
+    background-image: url(../img/barkley.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2018{
+    background-image: url(../img/tyreek.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2018{
+    background-image: url(../img/kelce.jpeg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2019{
+    background-image: url(../img/GFFLBOWLXVChamp.PNG);
+}
+
+.gffl_bowl_2019{
+    background-image: url(../img/GFFLBOWLXV.PNG);
+    
+}
+
+.top_qb_2019{
+    background-image: url(../img/ljaxx.jpg);
+    background-size: cover;
+    
+}
+
+.top_hb_2019{
+    background-image: url(../img/cmc.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2019{
+    background-image: url(../img/mt.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2019{
+    background-image: url(../img/kelce.jpeg);
+    background-size: cover;
+
+}
+
+.gffl_champ_2020{
+    background-image: url(../img/GFFLBOWL16Champ.JPG);
+}
+
+.gffl_bowl_2020{
+    background-image: url(../img/GFFLBOWL16.JPG);
+    
+}
+
+.top_qb_2020{
+    background-image: url(../img/jallen.jpeg);
+    background-size: cover;
+    
+}
+
+.top_hb_2020{
+    background-image: url(../img/kamara.jpg);
+    background-size: cover;
+    
+}
+
+.top_wr_2020{
+    background-image: url(../img/adams.jpg);
+    background-size: cover;
+
+}
+
+.top_te_2020{
+    background-image: url(../img/kelce.jpeg);
     background-size: cover;
 
 }
