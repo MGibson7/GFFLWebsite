@@ -1,0 +1,34 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+body{
+    background-color: black;
+    color: yellowgreen;
+}
+
+.container{
+    width: 90%
+    margin: 0 auto;
+    max-width: 1400px;
+}
+
+.superbowl{
+    background-image: url("../img/superbowl.jpg");
+    width: 1200px;
+    height: 400px;
+    float: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    border: 10px solid greenyellow ;
+    margin: 0px, 5px;
+}
+
+
+
