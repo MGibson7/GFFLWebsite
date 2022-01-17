@@ -76,7 +76,6 @@ body h1{
     background-size: contain;
     background-color: black;
     margin: 0px, 5px;
-    border:10px solid greenyellow;
 
 }
 
@@ -102,5 +101,13 @@ body h1{
 
 .franchise7{
     background-image: url("../img/nuts.jpg");
+}
+
+.franchise8{
+    background-image: url("../img/wdogz.png");
+}
+
+.franchise9{
+    background-image: url("../img/panthers.png");
 }
 
