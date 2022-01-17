@@ -11,6 +11,13 @@ body{
     color: yellowgreen;
 }
 
+body h1{
+    font-size: 50pt;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
 .container{
     width: 90%
     margin: 0 auto;
@@ -30,5 +37,70 @@ body{
     margin: 0px, 5px;
 }
 
+.franchise{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    margin: 0px, 5px;
+}
 
+.franchise1{
+    background-image: url("../img/classics.jpeg");
+}
+
+
+.trophy{
+    background-image: url("../img/trophy.jpg");
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    margin: 0px, 5px;
+    text-align: center;
+
+}
+.breakup{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: black;
+    margin: 0px, 5px;
+    border:10px solid greenyellow;
+
+}
+
+.franchise2{
+    background-image: url("../img/kings.png");
+}
+
+.franchise3{
+    background-image: url("../img/pups.png");
+}
+
+.franchise4{
+    background-image: url("../img/gators.png");
+}
+
+.franchise5{
+    background-image: url("../img/pirates.png");
+}
+
+.franchise6{
+    background-image: url("../img/falcons.png");
+}
+
+.franchise7{
+    background-image: url("../img/nuts.jpg");
+}
 
