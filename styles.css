@@ -21,7 +21,7 @@ body{
 
 .flex-container{
     display: flex;
-    width: 1200px;
+    width: 80%;
 }
 
 .rookiebox, .championbox, .franchisebox, .seasonsbox,
