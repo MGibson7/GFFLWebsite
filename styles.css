@@ -11,10 +11,12 @@ body{
     color: yellowgreen;
 }
 
+
+
+
 .container{
     width: 80%
     margin: 0 auto;
-    max-width: 1400px;
 }
 
 .flex-container{
@@ -30,6 +32,7 @@ body{
     background-color: black;
     height: 400px;
     width: 400px;
+    max-width: 100%;
     border: 10px solid greenyellow ;
     margin: 0px, 5px;
     float: left;
