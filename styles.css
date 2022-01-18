@@ -43,6 +43,7 @@ body{
     font-weight: bold;
     color: yellowgreen;
     flex: 0 1 0%;
+    text-align: center;
 }
 
 .championbox{
@@ -100,6 +101,5 @@ body h1{
     text-align: center;
     float: left;
     margin-bottom: 10px;
-    clear: both;
 }
 
