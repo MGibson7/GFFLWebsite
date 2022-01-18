@@ -17,11 +17,13 @@ body{
 .container{
     width: 90%
     margin: 0 auto;
+    max-width: 1400px;
 }
 
 .flex-container{
     display: flex;
     width: 90%;
+    flex-flow: no wrap;
 }
 
 .rookiebox, .championbox, .franchisebox, .seasonsbox,
