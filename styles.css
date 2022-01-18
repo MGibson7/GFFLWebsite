@@ -17,6 +17,10 @@ body{
     max-width: 1400px;
 }
 
+.flex-container{
+    display: flex;
+}
+
 .rookiebox, .championbox, .franchisebox, .seasonsbox,
 .futurepicksbox, .recordbookbox{
     background-repeat: no-repeat;
@@ -32,6 +36,7 @@ body{
     font-size: 30pt;
     font-weight: bold;
     color: yellowgreen;
+    flex: 0 1 0%;
 }
 
 .championbox{
