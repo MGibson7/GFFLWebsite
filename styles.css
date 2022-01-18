@@ -15,13 +15,13 @@ body{
 
 
 .container{
-    width: 80%
+    width: 90%
     margin: 0 auto;
 }
 
 .flex-container{
     display: flex;
-    width: 80%;
+    width: 90%;
 }
 
 .rookiebox, .championbox, .franchisebox, .seasonsbox,
